@@ -21,13 +21,14 @@
 ---
 
 ### ⚡ What We Do
-AJAXVPN is a next-generation VPN company focused on:
+AjaxVPN is a next-generation VPN company focused on:
 - 🔒 **Security:** enterprise-grade encryption at every layer
 - 🚀 **Speed:** optimized low-latency global infrastructure
 - 🌍 **Reliability:** consistent uptime and private networks
 - 💡 **Transparency:** open about what matters — secure where it counts
+- 🔐 **DDoS Protection:** reliable mitigation and shielding at the network edge, keeping your connection stable and uninterrupted, even on our worst of nodes
 
-We blend advanced technology and design to make privacy elegant and effortless.
+We blend advanced security, without comprising your sanity — ensuring your privacy is fast, beautiful, and simple.
 
 ---
 
@@ -35,7 +36,7 @@ We blend advanced technology and design to make privacy elegant and effortless.
 We’re currently in **active private development**.
 Our open-source work will launch once our infrastructure is fully production-hardened.
 
-> 🧩 *“Open enough to be trusted — closed enough to protect innovation.”*
+> 🧩 *"Open enough to be trusted — closed enough to protect innovation."*
 
 ---
 
