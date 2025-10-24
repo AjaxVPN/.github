@@ -1,7 +1,7 @@
 <!-- AjaxVPN Header -->
 <p align="center" style="background-color:#0D0D1A; padding: 30px 0; border-bottom:1px solid #2A2A3D;">
   <a href="https://ajaxvpn.org" target="_blank" style="text-decoration:none; display:inline-flex; align-items:center; gap:16px;">
-    <img src="https://fuckk.lol/ajaxvpn-org-small.png" alt="AjaxVPN Logo" width="64" height="64" style="border-radius:12px;">
+    <img src="https://fuckk.lol/cdn/ajaxvpn-org-small.png" alt="AjaxVPN Logo" width="64" height="64" style="border-radius:12px;">
     <!--<span style="
       font-family:'Poppins', sans-serif;
       font-size:2.2rem;
